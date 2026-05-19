@@ -260,7 +260,7 @@ This system improves user experience and reduces manual effort in complaint hand
 ## Frontend URL
 
 ```text
-[Add Frontend URL Here](https://ese-frontend-8wwp.onrender.com/)
+https://ese-frontend-8wwp.onrender.com
 ```
 
 ## Backend URL
